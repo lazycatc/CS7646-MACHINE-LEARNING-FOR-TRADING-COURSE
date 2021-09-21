@@ -6,13 +6,18 @@ projects includes:
 
 assess protofolio 
 portfolio analysis. Use pandas for reading in data, calculating various statistics and plotting a comparison graph.
+
 assess learner 
 implement and evaluate three learning algorithms as Python classes: A "classic" Decision Tree learner, a Random Tree learner, and a Bootstrap Aggregating learner.
+
 defeat learner 
 test the strengths and weaknesses of various learners.
+
 marketism 
 create a market simulator that accepts trading orders and keeps track of a portfolio's value over time and then assesses the performance of that portfolio.
+
 qlearning robot 
 implement the Q-Learning and Dyna-Q solutions to the reinforcement learning problem. You will apply them to a navigation problem in this project.
+
 strategy learner 
 design a learning trading agent.
