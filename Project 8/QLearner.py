@@ -7,7 +7,7 @@
 import numpy as np
 import random as rand
 
-#Name:Amogh Nalwaya, UserID:analwaya3
+
 class QLearner(object):
 
     def __init__(self, \
